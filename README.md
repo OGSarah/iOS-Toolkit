@@ -24,6 +24,9 @@ Reference docs render directly on GitHub. Mermaid diagrams are supported in Mark
 
 Setting these up once and reusing them means every project starts with linting enforced at build time, consistent file headers applied automatically, and a known set of conventions. It removes a class of small decisions and inconsistencies before they happen. The reference docs serve the same goal from the other direction, capturing the things that are easy to forget between projects so they do not have to be relearned each time.
 
+## Props
+The Agents.md file was borrowed from TwoStraws (an awesome iOS dev) here: [Agents.md original file](https://github.com/twostraws/SwiftAgents)
+
 ## License
 
 Released under the [MIT License](LICENSE). © 2026 SarahUniverse
